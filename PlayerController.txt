@@ -1,3 +1,9 @@
+Python = no
+
 print("hello world")
 
 print("como estás")
+
+
+if Python = no:
+	print("Extraño python")
